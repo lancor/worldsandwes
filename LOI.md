@@ -3,11 +3,11 @@
 - PI Department or Program:
 - Computer Science
 ## Amount Requested (USD): $147,378.00
-## Total Project Budget (USD): $147,378.00
+### Total Project Budget (USD): $147,378.00
 
 ### Project Purpose:
 
-     Through this project, SCSU computer science students will develop ethical case studies in CS using webVR and share these with others. 
+Through this project, SCSU computer science students will develop ethical case studies in CS using webVR and share these with others. 
 
 ### Concept Summary:
 
