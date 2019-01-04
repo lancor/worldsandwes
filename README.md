@@ -1,4 +1,4 @@
-# Project Title: Shaping our Worlds and Exploring Our We(s): WebVR and Computer science Ethics
+# Project Title: Shaping our Worlds and Exploring Our We(s): WebVR and Computer Science Ethics
 Name of Principal Investigator (PI):Lisa Lancor, Computer Science
 Invesitagators: 
 
