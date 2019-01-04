@@ -1,4 +1,4 @@
-Project Title: Shaping our Worlds and Exploring Our We(s): WebVR and Computer science Ethics
+# Project Title: Shaping our Worlds and Exploring Our We(s): WebVR and Computer science Ethics
 Name of Principal Investigator (PI):Lisa Lancor, Computer Science
 Invesitagators: 
 
@@ -7,7 +7,8 @@ Total Project Budget (USD): $147,378.00
 Project Purpose:
 
 Through this project, SCSU computer science students will develop ethical case studies in CS using webVR and share these with others.
-Concept Summary:
+
+## Concept Summary:
 
 This project will fund the creation of a Virtual Reality recording and editing lab and the development of undergraduate courses in film, recording, animation, and a course in webVR. Through these courses the students will create scalable, remixable content around issues of ethics in computer science in order to leave our programming understanding of ethics as a first-design principle .The project will proceed in two phases. During the first phase, we will convert an unused planetarium into a a webVR classroom. This will mean installing high-end video cameras, switches, additional networking, recording, and computer editing equipment.
 
@@ -22,16 +23,16 @@ Students will then use the new laboratory to write and develop other ethical cas
 As they embark on this journey students will reflect on portfolios they build themselves using Glitch.
 
 WebVR provides a fascinating platform for developing a culture of ethics in in computer science. Not only can students be placed in situations that maybe amoral in real life but they can reflect on practices as they develop case studies from historical research
-Deliverables:
 
-    Virtual reality recording studio
-    webVR editing stations
-    Approximately 15 webVR case studies on ethics in computer science
-    Two course sequence on developing webVR with a lens towards ethics
-    Network of student blogs, reflections, and posts.
-    Integrated reading and writing environment for teacher and the students.
+## Deliverables:
+* Virtual reality recording studio
+* webVR editing stations
+* Approximately 15 webVR case studies on ethics in computer science
+* Two course sequence on developing webVR with a lens towards ethics
+* Network of student blogs, reflections, and posts.
+* Integrated reading and writing environment for teacher and the students.
 
-Suitability:
+## Suitability:
 
 We make perfect partners for the project. The project is co-sponsored by the Computer Science Department, The Research Center on Computer and Society, and the School of Education
 
