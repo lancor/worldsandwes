@@ -10,7 +10,7 @@ Through this project, SCSU computer science students will develop ethical case s
 
 ## Concept Summary:
 
-This project will fund the creation of a Virtual Reality recording and editing lab and the development of undergraduate courses in film, recording, animation, and a course in webVR. Through these courses the students will create scalable, remixable content around issues of ethics in computer science in order to leave our programming understanding of ethics as a first-design principle .The project will proceed in two phases. During the first phase, we will convert an unused planetarium into a a webVR classroom. This will mean installing high-end video cameras, switches, additional networking, recording, and computer editing equipment.
+This project will fund the creation of a Virtual Reality recording and editing lab and the development of undergraduate courses in film, recording, animation, and a course in webVR. Through these courses the students will create scalable, remixable content around issues of ethics in computer science in order to leave our programming understanding of ethics as a first-design principle .The project will proceed in two phases. During the first phase, we will develop a WebVR recording lab.
 
 In phase two of the class, we will develop the course syllabi for a two-course sequence in webVR that will revolve around students scripting, animating, and filming case studies about ethics in computer science. These courses will be cross-listed with our Philosophy Department’s studies in the ethics of technology.
 
