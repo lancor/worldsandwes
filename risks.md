@@ -29,7 +29,7 @@ Even if an individual feels that they have “published” in public or have con
 * We will analyze and publish data that is de-identified or aggregated in ways that cannot be traced back to an individual.
 * Any identifiable quotes or descriptions of activities will not be used in a research publication or presentation without the permission of the individual. This includes anonymized or pseudonymized quotes, because they can be linked back through a search engine to an individual public posting.
 
-Participants  may also be contacted and recruited to participate in surveys and interviews for specific research studies. In these cases we will offer a clear explanation of the consent and privacy procedures, how the data will be used, and what benefit the research will provide to the individual and the #WalkMyWorld community. The researcher should also consider offering interviewees the opportunity to review transcripts and quotes.
+Participants  may also be contacted and recruited to participate in surveys and interviews for specific research studies. In these cases we will offer a clear explanation of the consent and privacy procedures, how the data will be used, and what benefit the research will provide to the individual and the  community. We will also allow interviewees the opportunity to review transcripts and quotes.
 
 No student will be required to join the study. In fact someone beside the class instructor will collect permissions and the teaching professor will not know who agreed to be included until grades are submitted. 
 
