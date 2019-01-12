@@ -1,4 +1,3 @@
-How many students will you reach through this effort? Who are they? Did you engage any students to help shape the design of your concept? (5000 Characters or Fewer)
 
 At Southern Connecticut State University we design for a future where there is no tech industry for we embrace the truth of the present that every industry is now a tech industry. Therefore our entry level class in the program will be offered to all students as part of our Liberal Education Program. This class will focus on the structure of storytelling, character development, and story telling.
 
