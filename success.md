@@ -1,4 +1,4 @@
-While traditional instructional design places a  learning objectives ethics in computer science can never work this. Inclusion should never be a rubric. No one should get a 2.7 proficient in diversity score. Creative a culture of ethics as a first principle of design requires us to reshape society and not learners.
+While traditional instructional design places a  priority on learning objectives ethics in computer science can never work this way. Inclusion should never be a rubric. No one should get a 2.7 proficient in diversity score. Creative a culture of ethics as a first principle of design requires us to reshape society and not learners.
 
 A focus on instructionism as Gary Stager points out (2005 pg 3)in education using the web leads to "delivering re-purposed content to students via the	Internet. Communication, collaboration,	community	and	construction are after thoughts graded onto modern correspondence courses."
 
