@@ -26,4 +26,4 @@ Audio remixing and studio equipment, 2,900
 ## Other
 * Professional Instalation, 2000 for the set up of the audio recording studio
 * Developer, Malcom Blaney, $5,000 Create a ledger and micropub client for issuing and recording webmention badges. Malcom Blaney has experience developing ledgers that can record transactions using webmentions and HTML.
-* Developer, Grant Richardson, $9,000 Create a lightweight blogging CMS using .nodejs. Include webementions, indieauth, and micropub endpoints. Create a microformats parser for tracking class participation. Grant is a skilled .nodejs developer and already contributes to the Glitch platform. 
+* Developer, Grant Richardson, $9,000 Create a lightweight blogging CMS using .nodejs. Include webementions, indieauth, and micropub endpoints. Create a microformats parser for tracking class participation. Grant is a skilled node.js developer and already contributes to the Glitch platform. 
