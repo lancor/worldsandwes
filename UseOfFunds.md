@@ -13,14 +13,14 @@ Student 2 $12 per hour. Handle office logistics and filing of university require
 
 ## Fringe Benefits
 
-The grant will include 23,300 dollars for fring benefits as determined by Connecticut State Statute. 
+The grant will include $23,300 dollars for fring benefits as determined by Connecticut State Statute. 
 
 ## Equipment
-Insta360 Pro II Spherical VR 360 8K Camera, Extra Battery & Charger Kit, 6,000
-Audio recording equipment 4,000
-3 Garmin VIRB 360 Action Camera 2,100
-Audio remixing and studio equipment, 2,900
-5 high-end desktops or laptops  20,0000
+* Insta360 Pro II Spherical VR 360 8K Camera, Extra Battery & Charger Kit, $6,000
+* Audio recording equipment $4,000
+* 3 Garmin VIRB 360 Action Camera $2,100
+* Audio remixing and studio equipment, $2,900
+* 5 high-end desktops or laptops  $20,0000
 
 
 ## Other
