@@ -1,50 +1,30 @@
  ## Introduction
 
-The Computer Science Department, Research Center on Computing and Society, and the School of Education at Southern Connecticut State University  submit this application to fund the creation of a Virtual Reality recording and editing studio and coursework on  storytelling and WebVR.
+The Computer Science Department at Southern Connecticut State University (SCSU), has been teaching students computer ethics for close to 30 years thanks to the ground breaking work of SCSU’s Professor of Philosophy, Dr. Terrell Bynum.  Dr. Bynum was the first to develop curriculum for a university course on computer ethics and is recognized internationally for his leadership in the field. Since the late 80’s, CSC 324: Computer Ethics has been a required course for computer science majors and is regularly praised by our national accrediting body, ABET-CAC, during site visits. The learning outcomes for the course include understanding the local and global societal impact of computing, as well as awareness of the professional, ethical and social responsibilities related to computer technologies. 
 
-Specifically this project will fund the creation of the virtual reality lab and openly licensed pedagogical materials other computer science departments could use to learn ethics, webVR, or better yet both. Through these courses the students will create scalable, remixable content around issues of ethics in computer science in order to leave our programming understanding of ethics as a first-design principle.
+In continuing with SCSU’s tradition of leading curricular development in computer ethics, the Computer Science Department, the School of Education, and the Research Center on Computing and Society (founded by Dr. Bynum) propose this work to fund the creation of a Virtual Reality (VR) recording and editing studio, with accompanying coursework on storytelling involving ethical issues in computing developed for an immersive 360° WebVR experience.
 
-The project will proceed in two stages. The Responsible Computer Science Challenge award will fund the first stage. During the first stage we will develop the animation and WebVR lab as well as develop the curriculum. Successful results of this stage will lead us to seek follow up funding to convert a planetarium into a dual purpose Virtual Reality live recording studio while maintaining planetarium functionality. 
+Specifically, this project will fund the creation of a new virtual reality lab that will be used to develop open-licensed pedagogical materials that other departments could use to immerse students in ethical issues around computing. Along with the development of the VR lab, two new courses are proposed.  The first is a course in digital storytelling (CSC 105: Digital Storytelling) focusing on ethical issues in computing utilizing the collaborative community of #DS106, the Open Online Community of Digital Storytellers.  A second course (CSC 318: Virtual Reality Development) will be developed in which students will learn how to create scalable, remixable content around issues of ethics in computer science utilizing the storyboards developed in CSC 105/DS106. The immersive content developed in CSC 318 will then be incorporated into our existing CSC 324 ethic course to further emphasize the importance of ethics as a first-design principle.
 
-Stage one, funded by the Responsible Computer Science Challenge is a formative design experiments that revolves around the pedagogical goal of understanding how perspectives, history, and personality shape ethics in computer science. 
+The entire project will proceed in two phases. The Responsible Computer Science Challenge award (Stage I) will fund the first phase of the project where we will build the the VR lab as well as develop the course curricula for the two new courses. Successful results of this phase will lead us to deploy the courses and embed the content into CSC 324.  We will also seek follow up funding to convert an existing planetarium into a dual-purpose VR recording studio (while maintaining planetarium functionality) to truly enhance the immersive experience of ethical issues in computing. 
 
-Southern Connecticut State University is uniquely qualified for this award. Our Research Center on Computing and Society, founded and led by Terrell Ward Bynum, has explored the ethics of computer science and technology since 1988. Dr Heidi Lockwood, Professor of Philosophy will join the project. Dr. Lisa Lancor, Professor and Chair of the Computer Science Department will serve as Principal Investigator on the Project. Dr. Greg McVerry, Assistant Professor, Curriculum and Learning, and long time Mozilla contributor, will lead our efforts to facilitate the development course curriculum that align our long history exploring ethics and computer science with theories of open pedagogy.
+Phase One, funded by the Responsible Computer Science Challenge’s Stage I award, is a formative design experiment that revolves around the pedagogical goal of understanding how perspectives, history, and personality shape ethics in computer science.
 
+Our interdisciplinary team at Southern Connecticut State University is uniquely qualified for this award. Our Research Center on Computing and Society has explored the ethics of computer science and technology since 1988. Dr. Heidi Lockwood, Professor of Philosophy, joins the team as a dedicated and successful professor of our existing computer ethics course, CSC 324.. Dr. Lisa Lancor, Professor and Chair of the Computer Science Department will serve as Principal Investigator on the proposed project and has extensive experience in curricular development using innovative approaches. Dr. Greg McVerry, Assistant Professor of Curriculum and Learning in the School of Education and long-time Mozilla contributor, will lead our efforts to facilitate the development of course curricula that align our long history of exploring ethics and computer science with theories of open pedagogy. 
 
-## Theoretical Principles
-
-In formative design experiments you develop a pedagogical goal around specific theories. We draw heavily on the work of John Dewey and see digital literacies and ethics in computer science as being necessary for efforts in democratic education. The pedagogy used will center around production based inquiry methods. We will also encourage all participants to reflect openly on a blogging platform and URL we will provide to participants. Further We will, in fact we already are, invite the larger Mozilla WebVR community to contribute to the project as well.
+### Theoretical Principles
+Formative design experiments develop a pedagogical goal around specific theories. We draw heavily on the work of John Dewey and see digital literacies and ethics in computer science as necessary for efforts in democratic education. The pedagogy used will center around production-based inquiry methods. We will also encourage all participants to reflect openly on a blogging platform and URL we will provide to participants. We will encourage further involvement of the larger Mozilla WebVR community in the project, building on work already accomplished. 
 
 #### Why WebVR
-
-We believe webVR to have the greatest reach and impact when teaching ethics. First of all the cost of full virtual reailoity rigs and the computer to power these systems are out of reach for most of the global population. WebVR will be accessible to anyone with a phone and Mozilla's virtual reality browser.
-
+We believe WebVR has the greatest reach and impact when teaching ethics. While the cost of full virtual reality rigs and computers to power these systems are out of reach for most of the global population, WebVR is accessible to anyone with a phone and Mozilla’s virtual reality web browser. 
 #### Open Pedagogy
+Every participant will have their own website domain and a fully customizable content management system. Our theoretical underpinning is that agency and belief in oneself as a writer is essential in order to engage in the reflective thought required in ethics education. In today’s networked society (Castells & Cardozza, 2006), a new set of skills and practices have emerged, and we must design for diversity and inclusivity by acknowledging computer science has not been a safe space (Boyd, 2018) 
 
-Every participant will have their own website domain and a fully customizable content management system. Our  theoretical underpinning is that agency and belief in oneself as a writer is essential in order to engage in reflective thought required in ethics education. In today’s networked society (Castells & Cardozza, 2006), a new set of skills and practices have emerged, and we must design for diversity and inclusivity by acknowledging computer science has not been a safe space (boyd, 2018)
+### Formative Design
+We will begin with focus group interviews of students to examine their understanding of ethics in technology. To conduct these focus groups, we will lay out the scenarios in our case study templates and record student discussion. We will then debrief the group and individual participants.
 
-## Formative Design
+We will then create and file the necessary paperwork for our new and revised courses. These courses will be designed in conjunction with our students and assigned a license that allows for remix. We will work with Mozillians already creating content on Glitch to develop WebVR tutorials.
 
- ### Collect Baseline Data
+We will then implement the courses and collect student feedback. The classes will be open to SCSU for credit but open to global participants to play and contribute. Data will be triangulated using their blog posts and plus delta charts at multiple time points.
 
- We will begin with focus group interviews of students to examine their understanding of ethics in technology. To conduct these focus groups we will just layout the scenarios in our case study templates and record student discussion. We will then debrief the group and individual participants.
-
- ### Develop Learning Interventions
-
- We will then create and file the necessary paperwork for our new and revised courses. These courses will be designed in conjuction with our students and assigned a license that allows for remix. We will work with  Mozillians already creating content on Glitch to develop webVR tutorials.
-
- ### Implement Interventions
-
- We will then implement the courses and collect student feedback. The class will be open to SCSU for credit but open to global participants to play and contribute. Data will be triangulated using their blog posts and plus delta charts at multiple time points.
-
- ### Analyze Data
-
-After the first run of classes we will analyze the data to determine which factors inhibited and which factors supported our pedagogical goals.
-
- ### Iterate on Learning Interventions
-
- We will then revise the coursework and run the classes again. 
-
- ### Analyze Data
-
- Finally we will analyze the data one last time using content analysis to identify themes that brought us closer to our pedagogical goals. 
+After the first run of classes we will analyze the data to determine which factors inhibited and which factors supported our pedagogical goals. We will then revise the coursework and run the classes again. Finally, we will analyze the data one last time using content analysis to identify themes that brought us closer to our pedagogical goals.
