@@ -2,7 +2,7 @@
 
 At SCSU, we design for a future where there is no separate tech industry, for we embrace the truth of the present that every industry is now a tech industry. Therefore, CSC 105: Digital Storytelling, our entry level class in the program will be offered to all students as part of our Liberal Education Program.  This class will focus on the structure of storytelling, character development, and storytelling.
 
-We will fork and also participate in the online class #DS106. This distributed learning community is the longest continuously running class on the web and will connect our SCSU students to open web advocates from across the globe. These students will be invited to join our efforts at developing ethical case studies using traditional new media.
+We will fork and also participate in the online class [#DS106](http://ds106.us/). This distributed learning community is the longest continuously running class on the web and will connect our SCSU students to open web advocates from across the globe. These students will be invited to join our efforts at developing ethical case studies using traditional new media.
 
 We will also develop and propose a new advanced elective course, CSC 318: Virtual Reality, that will focus on learning A-Frame and WebVR. While students in this course will not develop their own case studies, they will take storyboards and scripts written by students in CSC 105 or DS106 and apply greater disciplinary and tier-three academic language to the resources and then develop the WebVR content using the proposed editing studio funded by this grant.
 
